@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-2
+Change Component Footprint: Designator=J2 Old Footprint=691101710002 New Footprint=JST-B2B-PH-K-S_V
+Change Component Comment : Designator=J2 Old Comment=691101710002 New Comment=B2B-PH-K-S(LF)(SN)
+Change Managed Component Library Link : Designator=J2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=F1C3C91A-FB8A-4039-ADDE-77ABE769A10A New ItemGUID=FD174A37-B421-4486-9338-F5547CC76FC8 Old RevisionGUID=89FD6633-820C-4E0C-BF48-382C916F2544 New RevisionGUID=EFBB6044-7C73-413E-B65B-D511BE090736
+Change component parameters: Designator = "J2" ("J2"); Footprint = "691101710002"; UniqueID = "\KRHRJIKP" ("\KRHRJIKP")
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/B2B-PH-K-S%28LF%29%28SN%29-JST-datasheet-8324864.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Nov-08"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No of Positions"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Style/Orientation"; Value = "StraightHeader/Plug"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Crimp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "ShroudedHeader"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=NetC1_1 Pin=J2-2
