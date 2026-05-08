@@ -1,6 +1,0 @@
-Added Component: Designator=R1(RESC2013X55X40LL15T20)
-Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Part Number"; Value = "TNPW08051K00BEEN"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=NetLED1_2 Pin=R1-1
-Added Pin To Net: NetName=NetC1_1 Pin=R1-2
-Added Member To Class: ClassName=Sheet2 Member=Component R1 TNPW08051K00BEEN
